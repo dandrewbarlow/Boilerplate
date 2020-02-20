@@ -2,10 +2,8 @@
 My custom website boilerplate
 
 ## Dependencies
-* node
-  * https://nodejs.org/en/
-* sass
-  * https://sass-lang.com/
+* [node](https://nodejs.org/en/)
+* [sass](https://sass-lang.com/)
 * gulp
 ```
 sudo npm install gulp-cli -g
