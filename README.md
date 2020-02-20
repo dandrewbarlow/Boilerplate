@@ -3,14 +3,18 @@ My custom website boilerplate
 
 ## Dependencies
 * node
+..* https://nodejs.org/en/
 * sass
+`
 * gulp
 
 
 ### How to use
 overwrite files as needed
 edit package.json to include relevant info
-### To start gulp/sass preprocessing:
+### Initializing
 ```
+npm init -y
+npm install --save-dev gulp gulp-sass browser-sync
 gulp watch
 ```
