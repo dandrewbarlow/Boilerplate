@@ -3,10 +3,13 @@ My custom website boilerplate
 
 ## Dependencies
 * node
-..* https://nodejs.org/en/
+  * https://nodejs.org/en/
 * sass
-`
+  * https://sass-lang.com/
 * gulp
+```
+sudo npm install gulp-cli -g
+```
 
 
 ### How to use
