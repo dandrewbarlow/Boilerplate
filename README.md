@@ -5,9 +5,7 @@ My custom website boilerplate
 * [node](https://nodejs.org/en/)
 * [sass](https://sass-lang.com/)
 * gulp
-```
-sudo npm install gulp-cli -g
-```
+  * `sudo npm install gulp-cli -g`
 
 
 ### How to use
