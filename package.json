@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/dandrewbarlow/Boilerplate#readme",
   "devDependencies": {
+    "autoprefixer": "^9.7.4",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
   }
 }
