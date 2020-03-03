@@ -10,6 +10,7 @@ echo ""
 mv Boilerplate/* ./../
 cd ..
 sudo rm -r temp
+rm -r .git
 echo ""
 echo "initializing nodes"
 echo ""
