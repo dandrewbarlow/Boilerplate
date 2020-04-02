@@ -16,3 +16,4 @@ echo "initializing nodes"
 echo ""
 npm init -y
 npm install --save-dev gulp gulp-sass browser-sync gulp-autoprefixer gulp-sourcemap aos
+cp node-modules/aos/src/sass/* scss/
