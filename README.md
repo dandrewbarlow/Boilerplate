@@ -1,5 +1,5 @@
 # Boilerplate
-My custom website boilerplate
+My custom website boilerplate. A simple grid and minimal aesthetic which can easily be customized or changed.
 
 ## Dependencies
 * [node](https://nodejs.org/en/)
