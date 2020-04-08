@@ -19,6 +19,6 @@ http://localhost:3000/
 ### Initializing
 ```
 npm init -y
-npm install --save-dev gulp gulp-sass browser-sync
+npm install --save-dev gulp gulp-sass browser-sync gulp-autoprefixer gulp-sourcemaps
 gulp watch
 ```
