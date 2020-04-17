@@ -13,8 +13,6 @@ overwrite files as needed
 
 edit package.json to include relevant info
 
-setup-script.sh is not working yet, but with a little tinkering, could easily simplify that process even more.
-
 Browser Sync defaults to:
 http://localhost:3000/
 
