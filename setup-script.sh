@@ -12,9 +12,14 @@ mv -r Boilerplate/ $title/
 cd $title/
 npm init -y
 npm install --save-dev gulp gulp-sass browser-sync gulp-autoprefixer gulp-sourcemaps
+echo "Post script change log:"
+echo "----------------------------------------------------------------"
 echo "Boilerplate git has been removed"
 echo "Titles of index.html & package.json have been changed"
 echo "Folder name changed to title"
 echo "node package manager & dependencies have been installed"
 echo "package.json urls need to be edited"
-echo "The rest is on u; If you're not me, you should change the author info"
+echo "google analytics needs to be set up"
+echo "Anything else is on u. There are probably more files you should edit but those are the big kahunas"
+echo "If you're not me, you should change the author info"
+echo "be sure to check for any errors that occurred during script's run & respond appropriately"
