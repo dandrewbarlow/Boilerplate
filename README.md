@@ -13,12 +13,18 @@ overwrite files as needed
 
 edit package.json to include relevant info
 
+setup-script.sh is not working yet, but with a little tinkering, could easily simplify that process even more.
+
 Browser Sync defaults to:
 http://localhost:3000/
 
 ### Initializing
+The following is implemented in boiler-script.sh for those who like working less
 ```
 npm init -y
 npm install --save-dev gulp gulp-sass browser-sync gulp-autoprefixer gulp-sourcemaps
+```
+When you're ready to start working:
+```
 gulp watch
 ```
