@@ -31,7 +31,7 @@ function watch() { browserSync.init({
 });
 gulp.watch('./scss/**/*.scss', {ignoreInitial: false}, style);
 gulp.watch('./*.html').on('change', browserSync.reload);
-gulp.watch('./js/**/*.js').on('change', browserSync.reload);
+gulp.watch('./js/**/*.js').on('change', browserSync.relod);
 }
 
 exports.style = style;
